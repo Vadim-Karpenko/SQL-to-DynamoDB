@@ -1,0 +1,3 @@
+dotmap
+sqlparse
+boto3
